@@ -1,4 +1,4 @@
-🏰 Arcade Castle Defense Strategy Game in Python
+🏰 Arcade Castle Defense Strategy Game in Python (University Project)
 
 2D arcade-style strategy game developed in **Python** using the **Pygame** library. The player must defend a mighty castle from waves of bloodthirsty monsters, upgrade defenses, and survive through increasing levels of difficulty.
 
